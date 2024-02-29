@@ -1,0 +1,51 @@
+
+---------- K means clustering example ----------
+Number of clusters = 21
+Number of runs = 20
+
+---------- Final centroid coordinates ----------
+Cluster 1 center = 1.8493085,0.4539625
+Cluster 2 center = 0.38094804,0.23583409
+Cluster 3 center = 1.3042878,1.8911792
+Cluster 4 center = 1.5953891,0.25477496
+Cluster 5 center = 0.22581005,0.48719862
+Cluster 6 center = 0.21179122,1.7364652
+Cluster 7 center = 1.3062712,0.22633721
+Cluster 8 center = 0.88751477,1.0578709
+Cluster 9 center = 0.7002413,0.109110974
+Cluster 10 center = 0.65860754,1.7983077
+Cluster 11 center = 0.71015745,0.33002022
+Cluster 12 center = 1.8009433,1.8722757
+Cluster 13 center = 0.12428187,0.080328055
+Cluster 14 center = 0.11363072,0.27774614
+Cluster 15 center = 1.8433756,0.12754229
+Cluster 16 center = 0.39255673,1.1056639
+Cluster 17 center = 1.2411654,1.6646146
+Cluster 18 center = 1.6081561,1.626455
+Cluster 19 center = 1.1013553,0.8100654
+Cluster 20 center = 1.8879702,1.5331116
+Cluster 21 center = 1.1681674,1.0931395
+
+---------- Dispersions across all runs ----------
+Run 1 dispersion = 243.72337
+Run 2 dispersion = 193.48509
+Run 3 dispersion = 174.03838
+Run 4 dispersion = 164.72835
+Run 5 dispersion = 161.28578
+Run 6 dispersion = 158.8695
+Run 7 dispersion = 156.45267
+Run 8 dispersion = 154.92067
+Run 9 dispersion = 153.96536
+Run 10 dispersion = 153.20192
+Run 11 dispersion = 152.58908
+Run 12 dispersion = 152.22385
+Run 13 dispersion = 151.92
+Run 14 dispersion = 151.8318
+Run 15 dispersion = 151.79982
+Run 16 dispersion = 151.79976
+Run 17 dispersion = 151.79976
+Run 18 dispersion = 151.79976
+Run 19 dispersion = 151.79976
+Run 20 dispersion = 151.79976
+
+Minimum dipersion occured on run 16 = 151.79976

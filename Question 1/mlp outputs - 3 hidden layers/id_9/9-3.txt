@@ -1,0 +1,14 @@
+
+---------- Statistics ----------
+Training set size: 4000 (batch size = 1)
+Test set size: 4000
+Correct categorizations:  3616
+Wrong categorizations: 384
+
+Generalization Ability @ 90,40%
+The MLP is deemed worthy.
+
+C1: 965 (expected: 1036)
+C2: 926 (expected: 1027)
+C3: 1115 (expected: 1014)
+C4: 994 (expected: 923)

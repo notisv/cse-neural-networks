@@ -1,0 +1,37 @@
+
+---------- K means clustering example ----------
+Number of clusters = 7
+Number of runs = 20
+
+---------- Final centroid coordinates ----------
+Cluster 1 center = 0.6875686,0.20742832
+Cluster 2 center = 1.3077836,1.7829026
+Cluster 3 center = 0.21951382,0.2898691
+Cluster 4 center = 1.7781621,1.7202338
+Cluster 5 center = 0.39147785,1.7424619
+Cluster 6 center = 1.6064304,0.24362813
+Cluster 7 center = 1.0353166,0.99515367
+
+---------- Dispersions across all runs ----------
+Run 1 dispersion = 462.79187
+Run 2 dispersion = 362.35236
+Run 3 dispersion = 348.6266
+Run 4 dispersion = 338.59436
+Run 5 dispersion = 328.0072
+Run 6 dispersion = 308.99063
+Run 7 dispersion = 277.84802
+Run 8 dispersion = 271.66632
+Run 9 dispersion = 271.12796
+Run 10 dispersion = 271.04608
+Run 11 dispersion = 271.04608
+Run 12 dispersion = 271.04608
+Run 13 dispersion = 271.04608
+Run 14 dispersion = 271.04608
+Run 15 dispersion = 271.04608
+Run 16 dispersion = 271.04608
+Run 17 dispersion = 271.04608
+Run 18 dispersion = 271.04608
+Run 19 dispersion = 271.04608
+Run 20 dispersion = 271.04608
+
+Minimum dipersion occured on run 10 = 271.04608
