@@ -3,7 +3,7 @@ The project was developed for the [Neural Networks](https://www.cse.uoi.gr/cours
 
 Question 1 is about classifying 4000 points using mini-batch gradient descent algorithms on a 2-layer MLP network.
 
-Question 2 is about clustering 1200 points using the k-means algorithm.
+Question 2 is about clustering 1200 points using the k-means algorithm
 
 ## Question 1 Instructions
 ### Instructions for Windows Platforms
